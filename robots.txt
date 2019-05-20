@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeteengoo.zetalang.org/sitemap.xml
